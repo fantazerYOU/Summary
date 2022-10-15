@@ -1,0 +1,696 @@
+
+/*font-family: 'Comfortaa', cursive;*/
+body {
+	font-family: Tahoma, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+h3 {
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+a {
+    transition: 0.5s;
+}
+
+p {
+	font-family: Tahoma, Arial, sans-serif;
+}
+
+section {
+	background: #e3e3e3;
+}
+
+.aniwere {
+    font-size: 20px;
+    font-weight: normal;
+    height: 10px;
+}
+
+.head {
+	background: #292929;
+    height: 25px;
+    margin: 0;
+    width: 100%;
+}
+
+.conteiner {
+	width: 850px;
+	margin: 0 auto;
+}
+
+.resume {
+    width: 200px;
+    margin-top: 0;
+    height: 75px;
+    background: #292929;
+}
+
+.resume_text {
+	margin: 0;
+	color: #e3e3e3;
+    font-size: 25px;
+    letter-spacing: 6px;
+    margin: 0;
+    padding: 22px 1px 1px 40px;
+    font-weight: normal;
+}
+
+.name {
+	width: 300px;
+	height: 70px;
+	background: 0;
+}
+
+.section {
+	height: 1000px;
+}
+
+.name_text {
+	color: #292929;
+    height: 25px;
+    margin: 10px 0 0 0;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.prof {
+	margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    color: #767676;
+}
+
+.about-me {
+	background: #292929;
+    width: 200px;
+    height: 100%px;
+}
+
+.im {
+	width: 160px;
+    margin: 0;
+    border: 1px solid gray;
+    margin: 5px auto;
+}
+
+.info {
+	width: 550px;
+}
+
+.no-run {
+	position: sticky;
+	top: 0px;
+}
+
+.contata {
+	display: flex;
+	position: sticky;
+
+}
+
+ .fototo{
+    display: flex;
+ }
+
+
+.text__about-me {
+	font-size: 13px;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 0;
+    color: #e9e9e9;
+    text-align: center;
+}
+
+.text__about-mee {
+	font-size: 13px;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 0;
+    color: #e9e9e9;
+    text-align: center;
+}
+
+.text__about-meeee {
+	font-size: 13px;
+    display: block;
+    margin-top: 2px;
+    margin-bottom: 0;
+    color: #e9e9e9;
+    text-align: center;
+}
+
+.text__about-meee {
+	font-size: 15px;
+    display: block;
+    margin-top: 38px;
+    margin-bottom: 0;
+    color: #e9e9e9;
+    text-align: center;
+}
+
+.email {
+	width: 36px;
+    margin: 1px 0px 2px 7px;
+}
+
+.connect {
+	display: flex;
+}
+
+.site {
+	text-decoration: none;
+}
+
+.mail {
+	font-size: 14px;
+    color: #e9e9e9;
+    margin: 8px 1px 1px 1px;
+    text-decoration: underline;
+}
+
+.mail:hover {
+	font-size: 13px;
+    color: #fff;
+    margin: 9px 1px 1px 4px;
+    text-decoration: underline;
+
+}
+
+.phoun {
+    height: 27px;
+    width: 29px;
+    margin: 1px 0px 10px 10px;
+}
+
+.phone-number {
+	font-size: 14px;
+    color: #e9e9e9;
+    margin: 5px 1px 1px 8px;
+}
+
+.yandex {
+	margin-left: 15px;
+}
+
+
+
+h2 {
+
+}
+
+.yand {
+	margin-top: 0; 
+	margin-left: 15px;
+	margin-bottom: 0;
+    text-decoration: underline;
+    font-size: 28px;
+}
+
+.special {
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.moscou {
+    margin: 24px 1px 0px 1px;
+	font-weight: bold;
+    font-size: 17px;
+    color: #2b2b2b;
+}
+
+.chapter-1 {
+	margin-bottom: -6px;
+    font-size: 15px;
+    color: #000;
+    font-weight: 600
+}
+
+.yande li {
+	font-size: 15px;
+    color: black;
+    margin-top: 10px;
+}
+
+.yande {
+	margin-top: 0;
+    font-family: Tahoma, sans-serif;
+}
+
+.project-analitic {
+	text-decoration: underline;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 0;
+    padding: 8px 1px;
+}
+
+.project-analitic a {
+    font-size: 18px;
+    transition: 0.5s;
+}
+ 
+.sell-apartments {
+	margin: 30px 2px 5px 5px;
+}
+
+.tariff-definition {
+    display: none;
+	margin: 30px 2px 5px 5px;
+}
+
+.movie {
+	margin: 30px 2px 5px 5px;
+    display: none;
+}
+
+
+.sell-apartments p {
+	margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: bold;
+}    
+
+.tariff-definition p {
+	margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.movie p {
+	margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.movie a {
+	margin: 0px 1px 1px 22px;
+}
+
+.tariff-definition a {
+	margin: 0px 1px 1px 22px;
+}
+
+.sell-apartments a {
+	margin: 0px 1px 1px 22px;	
+}
+
+.data-list {
+	margin-top: 30px;
+	text-decoration: underline;
+    font-weight: 900;
+    font-size: 20px;
+    margin-bottom: 0;
+    padding: 8px 1px;
+}
+
+.yandex a {
+	color: #d9038b;
+    text-decoration: none;
+    font-family: 'Tahoma';
+
+}
+
+.yandex a:hover {
+	color: #a900ff;
+	font-size: 17px;
+}
+
+.moviee {
+	margin: 20px 2px 5px 5px;
+}
+
+.moviee p {
+	margin-top: -15px;
+	margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.moviee a {
+	margin: 0px 1px 1px 22px;
+}
+.key-say {
+    margin-left: 15px;
+}
+
+.yandd {
+    margin-top: 25px; 
+    margin-left: 15px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+    font-size: 28px;
+}
+
+.list p {
+    margin: 7px 7px 1px 0px;
+    -webkit-text-stroke: thin;
+    font-size: 13px;
+    background: #acacac;
+    border-radius: 5px;
+    padding: 3px 5px 3px 5px;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.list p:hover {
+    color: #f5f5f5;
+    font-size: 13.3px;
+}
+.github {
+    width: 29px;
+    margin: 4px 4px 5px 10px;
+}
+
+.bifor-for-mi {
+    margin-left: 15px;
+}
+
+.bifor-for-mi__text {
+    padding: 6px 6px 5px 6px;
+    border-radius: 9px;
+    margin: -2px 15px -4px 6px;
+    font-size: 18px;
+}
+
+.yanddd {
+    margin-top: 33px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+    font-size: 28px
+}
+ 
+.bifor-for-mi h3 {
+    font-family: Tahoma, Arial, sans-serif;
+    margin: 22px 1px 1px 20px;
+    text-decoration: underline;
+    font-size: 23px;
+}
+
+.tratata {
+    display: flex;
+}
+
+.line {
+    margin: 6px 0px -10px -1px;
+    width: 8px;
+    height: 135px;
+    background: black;
+}
+
+.shink {
+    display: flex;
+}
+
+.year {
+    font-family: 'Tahoma';
+    margin: 16px 16px 1px 0px;
+    text-decoration: underline;
+}
+
+.sell-apartments p {
+    font-family: 'Tahoma';
+}
+
+
+.foot {
+    background: #292929;
+    height: 25px;
+    margin: 0;
+    width: 100%;
+}
+
+.sherf {
+    font-family: 'Tahoma', sans-serif;
+    line-height: 17px;
+}
+
+.ggg {
+    margin-bottom: -6px;
+    font-family: 'Tahoma', sans-serif;
+    line-height: 20px;
+}
+
+.fff {
+    margin-bottom: 25px;
+    font-family: 'Tahoma', sans-serif;
+    line-height: 20px;
+}
+
+
+
+
+/* ------ Media Queries ------ */
+
+/* 992-1200px */
+@media screen and (max-width: 1200px) {
+    
+}
+
+/* 768-992px */
+@media screen and (max-width: 992px) {
+
+.conteiner {
+    width: 750px;
+    margin: 0 auto;
+}
+
+}
+
+/* 576-768px */
+@media screen and (max-width: 768px) {
+
+.conteiner {
+    width: 567px;
+}
+
+.no-run {
+    width: 180px;
+    padding: 2px;
+}
+
+.mail {
+    font-size: 12px;
+    color: #e9e9e9;
+    margin: 8px 1px 1px 1px;
+    text-decoration: underline;
+    padding-top: 2px;
+}
+
+.phone-number {
+    font-size: 13px;
+    color: #e9e9e9;
+    margin: 5px 1px 1px 8px;
+}
+
+.text__about-meee {
+    font-size: 15px;
+    display: block;
+    margin-top: 23px;
+    margin-bottom: 0;
+    color: #e9e9e9;
+    text-align: center;
+}
+
+.im {
+    width: 160px;
+    margin: 0;
+    border: 1px solid gray;
+    margin: 2px 1px 2px 1px;
+}
+
+.no-run {
+    width: 165px;
+    padding: 1px;
+}
+
+.resume_text {
+    margin: 0;
+    color: #e3e3e3;
+    font-size: 25px;
+    letter-spacing: 6px;
+    margin: 0;
+    font-weight: normal;
+    padding-top: 15px;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.resume {
+    text-align: center;
+    width: 165px;
+    margin-top: 0;
+    height: 60px;
+    background: #292929;
+    align-items: center;
+    justify-content: center;
+}
+
+.yandex {
+    margin-left: 10px;
+}
+
+.yande {
+    width: 362px;
+    padding-left: 30px;
+    margin-right: 0;
+}
+
+.chapter-1 {
+    width: 395px;
+    margin-left: -4px;
+    margin-bottom: 0;
+}
+
+.line {
+    margin: 6px 0px -10px -1px;
+    width: 8px;
+    height: 199px;
+    background: black;
+}
+
+}
+
+/* 320-576px */
+@media screen and (max-width: 576px) {
+
+    .conteiner {
+        width: 90%;
+    }
+
+    .contata {
+        display: block;
+        position: none;
+    }
+
+    .resume {
+        width: 100%;
+    }
+
+    .resume {
+        width: 100%;
+        height: 45px;
+    }
+
+    .resume_text {
+        font-size: 35px;
+        padding-top: 0px;
+        letter-spacing: 10px;
+    }
+
+    .name {
+        text-align: center;
+    }
+
+    .about-me {
+        background: #292929;
+        width: 100%;
+        box-shadow: 0px 0px 6px #000;
+    }
+
+    .resume {
+        width: 100%;
+        height: 45px;
+        box-shadow: 0px 0px 6px #000;
+    }
+
+    .im {
+        justify-content: center;
+        width: 160px;
+        border: 1px solid gray;
+        margin: 5px auto;
+    }
+
+    .no-run {
+        width: 100%;
+        padding: 1px;
+    }
+
+    .text__about-meee {
+        margin-top: 10px;
+    }
+
+    .connect {
+        display: flex;
+        justify-content: center;
+    }
+
+    .info {
+        width: 100%;
+    }
+
+    .yand {
+        margin: 0;
+        text-align: center;
+    }
+
+    .special {
+        margin-top: 3px;
+        margin-bottom: 0;
+        text-decoration: overline;
+    }
+
+    .chapter-1 {
+        width: 100%;
+        margin-left: -4px;
+        margin-bottom: 0;
+        color: #000;
+        letter-spacing: 0.7px;
+    }
+
+    .chapter-1 {
+        width: 100%;
+        margin-left: -4px;
+        margin-bottom: 0;
+        color: #000;
+        letter-spacing: 0.7px;
+        font-family: unset;
+    }
+
+    .yande {
+        width: 99%;
+        padding-left: 8px;
+        margin-right: 0;
+    }
+
+    .project-analitic {
+        font-family: Tahoma, cursive;
+        text-align: center;
+        color: #000;
+    }
+
+    .bifor-for-mi h3 {
+        font-family: Tahoma, cursive;
+        margin: 22px 1px 1px 0px;
+        text-decoration: underline;
+        font-size: 23px;
+    }
+
+    .chtoto-tam{
+        font-size: 0px;
+    }
+       
+    .chtoto-tam:after{
+        content: 'https://github.com/fantazerYOU/...';
+        font-size: 16px;
+    }
+
+    .chtoto-tamm{
+        font-size: 0px;
+    }
+
+    .chtoto-tamm:after{
+        content: 'https://nbviewer.org/github/...';
+        font-size: 16px;
+    }
+}
